@@ -58,7 +58,7 @@ const ProjectInfo = [
 const SkillInfo = [
     {
         title: "Languages & Frameworks",
-        skills: ["C", "C++", "JavaScript", "Node JS", "Express JS", "HTML", "CSS", "React JS", "Tailwind CSS", "Redux","TypeScript"]
+        skills: ["C", "C++", "JavaScript", "NodeJS", "ExpressJS", "HTML", "CSS", "ReactJS", "Tailwind CSS", "Redux","TypeScript"]
     },
     {
         title: "Databases & Tools",
