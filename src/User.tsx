@@ -7,6 +7,7 @@ const Info = {
     bio: "IT professional skilled in full-stack development and C++, with a CGPA of 8.96. Experienced in data structures, algorithms, competitive programming, and proficient in front-end and back-end technologies for building efficient systems."
 }
 
+
 const socialLinks = [
     { link: "https://github.com/akshit-1313", icon: IconBrandGithub },
     { link: "https://www.linkedin.com/in/13akshit/", icon: IconBrandLinkedin },
@@ -30,7 +31,7 @@ const ProjectInfo = [
         image: "PortFolio.png",
         live: true,
         technologies: ["React",  "Tailwind", "Tabler-Icons","Mantine.dev"],
-        link: "https://github.com/akshit-1313/",
+        link: "https://akshit-1313.github.io/Akshit-Portfolio/",
         github: "https://github.com/akshit-1313/"
     },
     {
@@ -57,11 +58,11 @@ const ProjectInfo = [
 const SkillInfo = [
     {
         title: "Languages & Frameworks",
-        skills: ["C", "C++", "JavaScript", "Node Js", "Express Js", "HTML", "CSS", "React Js", "Tailwind CSS", "Redux","TypeScript"]
+        skills: ["C", "C++", "JavaScript", "Node JS", "Express JS", "HTML", "CSS", "React JS", "Tailwind CSS", "Redux","TypeScript"]
     },
     {
         title: "Databases & Tools",
-        skills: ["MySQL", "MongoDB", "Git", "GitHub", "VS Code", "Postman"]
+        skills: ["MySQL", "MongoDB", "Git", "Github", "VS Code", "Postman"]
     }
 ];
 
