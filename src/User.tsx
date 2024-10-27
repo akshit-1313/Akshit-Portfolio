@@ -62,7 +62,7 @@ const SkillInfo = [
     },
     {
         title: "Databases & Tools",
-        skills: ["MySQL", "MongoDB", "Git", "GitHub", "VS Code", "Postman"]
+        skills: ["MySQL", "MongoDB", "Git", "Github", "VS Code", "Postman"]
     }
 ];
 
