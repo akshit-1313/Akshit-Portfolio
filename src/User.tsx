@@ -32,11 +32,11 @@ const ProjectInfo = [
         live: true,
         technologies: ["React",  "Tailwind", "Tabler-Icons","Mantine.dev"],
         link: "https://akshit-1313.github.io/Akshit-Portfolio/",
-        github: "https://github.com/akshit-1313/"
+        github: "https://github.com/akshit-1313/Akshit-Portfolio"
     },
     {
         title: "BidBash",
-        desc: "Developed a dynamic IPL auction simulator using the MERN stack, enabling interactive, real-time bidding for users to form custom cricket teams.",
+        desc: "Developed the frontend of a dynamic IPL auction simulator using the MERN stack, enabling an interactive, real-time bidding experience for users to create custom cricket teams. Designed a responsive and visually engaging interface that facilitates seamless, live updates during the auction process.",
         image: "BidBash.png",
         live: false,
         technologies: ["HTML", "CSS", "JavaScript","React", "Node" ],
